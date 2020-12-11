@@ -12,4 +12,4 @@ module "rg" {
   rgname = var.rgname
   rglocation = var.rglocation
 
-
+}
