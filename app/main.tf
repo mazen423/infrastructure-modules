@@ -9,7 +9,7 @@ terraform {
 
 module "rg" {
   source = "../rg"
-  rgname = var.Name
-  rglocation = var.Location
+  rgname = var.rgname
+  rglocation = var.rglocation
 
 

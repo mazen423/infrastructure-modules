@@ -1,7 +1,7 @@
-variable "Name" {
+variable "rgame" {
   type = string
 }
 
-variable "Location" {
+variable "rglocation" {
   type = string
 }
